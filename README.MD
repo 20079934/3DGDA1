@@ -1,5 +1,7 @@
 game available to play at: https://20079934.github.io/3DGDA1/
 
+demo: https://www.youtube.com/watch?v=zxsyqys7ryY
+
 # Controls
 - WASD to move
 - Mouse to look around
